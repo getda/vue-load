@@ -1,4 +1,4 @@
-# vue-load
+# vue-loading
 ### 使用方法
 1. 先引入Vue 和 vue-loading 插件
 ```html
@@ -32,3 +32,7 @@
 </div>
 ```
 > 通过改变 `isLoading` 的值达到显示隐藏动画效果
+
+> 作者博客: http://wxdas.com<br>
+作者ＱＱ: 918247855<br>
+CSS 样式来至于互联网, 版权归原作者所有
