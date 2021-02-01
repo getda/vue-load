@@ -1,3 +1,7 @@
+/**
+ * author: 王小大
+ * github: https://github.com/getda/vue-loading
+ */
 let loadingPlugin = {
     install: function (Vue, options) {
         Vue.component('loading', {
